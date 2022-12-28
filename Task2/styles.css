@@ -1,0 +1,16 @@
+table,th,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+table{
+    width: 60vw;
+    height: 30vh;
+    text-align: center;
+    margin: auto;
+    margin-top: 250px;
+}
+th{
+    background-color: grey;
+}
+    
+    
